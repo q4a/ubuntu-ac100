@@ -4,7 +4,7 @@ Ubuntu 14.04, designed and optimized for Toshiba AC100.
 
 These scripts allows you to build up-to-date Ubuntu filesystem and install it to target device. Shipped with minimal GNOME Flashback, but you can build minimal text-mode OS if you want to.
 
-![Overview](https://github.com/nthchild/ubuntu-ac100/raw/master/screen.png)
+![Overview](https://github.com/mmnow/ubuntu-ac100/raw/master/screen.png)
 
 This OS is stable enough for daily work. Battery should last for up to 8 hours, and suspend is fully supported. Sound works all the time, music is loud and not malformed. 
 
